@@ -1,0 +1,49 @@
+h2 {
+    margin-left: -30px;
+    width: 320px;
+    margin-top: -10px;
+    padding: 20px;
+    text-align: center;
+    color:rgb(136, 245, 181);
+    background-color: white;
+   }
+     form{
+    height: 550px;
+    width: 300px;
+    padding: 10px 20px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(136, 245, 181);
+    margin: 2% auto;
+     }
+    input {
+    color: teal;
+    border: 1px solid #ccc;
+     padding: 5px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 6px;
+    background-color:rgb(135, 235, 225);
+   }
+   #btn{
+    width: 300px;
+    font-size: 110%;
+    font-weight: 100;
+    padding: 10px;
+    background: turquoise;
+    border-color: #f3e5e2;
+    border-radius: 30px;
+    color: #fff;
+    margin-top: 10px;
+    
+
+    }
+    section{
+    background-color: rgb(255, 0, 200);
+    color: red;
+    border-radius: 50px;
+    margin-left: 100px;
+    padding-left: 20px;
+    }
+    
